@@ -1,0 +1,7 @@
+import sys, os
+sys.path.append(os.pardir)
+from common.functions import *
+from common.gradient import numerical_gradient
+
+class TwoLayerNet:
+    pass
